@@ -419,10 +419,15 @@ input, select, textarea {
 
 		.row > .col-2 {
 			width: 16.6666666667%;
+			height: 16.6666666667%;
+			margin-left: 5.7%;
+			margin-right: 5.7%;
+
 		}
 
 		.row > .off-2 {
-			margin-left: 16.6666666667%;
+			margin-left: 0.1%;
+			margin-right: 0.1%;
 		}
 
 		.row > .col-3 {
